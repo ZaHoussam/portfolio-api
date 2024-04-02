@@ -1,0 +1,33 @@
+[
+  {
+    "prefix": {
+      "title": "Hi 👋, I'm",
+      "contact": "📫 Ask me or message me",
+      "resume": "📄 Know about my experiences",
+      "portfolio": "👨‍💻 All of my projects are available at"
+    },
+    "profile": {
+      "name": "Houssam",
+      "title": "Front-end developer",
+      "substitle": "Creative and experienced Front-End Developer with strong skills in designing and developing user-friendly and interactive user interfaces.",
+      "social_media": {
+        "linkedin": "link",
+        "instagram": "link",
+        "github": "link"
+      },
+      "email": "mrlhou62@gmail.com"
+    },
+    "about": {
+      "summary": "A passionate Front-End Developer with experience crafting user-friendly and interactive interfaces. Proven ability to translate designs into functional code using HTML, CSS, and JavaScript (including libraries like Vue.js or React). Adept at collaboration and thrives in a team environment. Eager to leverage skills at a leading technology company to contribute to innovative web products. "
+    },
+    "projects": [
+      {
+        "folders": "link",
+        "website": "link",
+        "image": "link",
+        "languages": [""]
+      }
+    ],
+    "skills": ["HTNL/CSS", "JS", "Vuejs", "Bootstrap", "SASS"]
+  }
+]
